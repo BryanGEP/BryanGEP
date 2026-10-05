@@ -41,7 +41,7 @@ Estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BryanGEP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGEP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGEP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="top langs"/>
 </p>
 
 <p align="center">
