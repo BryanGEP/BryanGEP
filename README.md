@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Agentes+de+IA+y+Machine+Learning;Desarrollo+Web+Full-Stack;Construyo+soluciones+de+principio+a+fin" alt="typing"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/bryan-esquivel-perez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/BryanGEP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://bgep.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
@@ -46,6 +50,10 @@ Estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanGEP&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanGEP&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 </p>
 
 ### Agentes de IA
