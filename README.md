@@ -53,8 +53,9 @@ Estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BryanGEP&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=BryanGEP&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 </p>
+
 
 ### Agentes de IA
 
