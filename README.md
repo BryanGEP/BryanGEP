@@ -52,9 +52,6 @@ Estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanGEP&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=BryanGEP&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
-</p>
 
 
 ### Agentes de IA
